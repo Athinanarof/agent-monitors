@@ -1,0 +1,15 @@
+# Bytecode y cache de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de configuración con datos sensibles
+.env
+
+# Archivos del sistema/editor
+.DS_Store
+.vscode/
